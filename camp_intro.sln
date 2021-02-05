@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metods", "Metods\Metods.csproj", "{943D3FBD-70FD-4F6A-9614-8985DA432F6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{627240DC-32BB-4ABC-9D42-94BE9189A7ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{943D3FBD-70FD-4F6A-9614-8985DA432F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943D3FBD-70FD-4F6A-9614-8985DA432F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943D3FBD-70FD-4F6A-9614-8985DA432F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943D3FBD-70FD-4F6A-9614-8985DA432F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{627240DC-32BB-4ABC-9D42-94BE9189A7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{627240DC-32BB-4ABC-9D42-94BE9189A7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{627240DC-32BB-4ABC-9D42-94BE9189A7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{627240DC-32BB-4ABC-9D42-94BE9189A7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85A3814A-77A7-4C18-BBB5-6FF4E3811F63}
+	EndGlobalSection
+EndGlobal
