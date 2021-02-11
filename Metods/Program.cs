@@ -39,9 +39,9 @@ namespace Metods
             SepetManager sepetManager = new SepetManager();
             sepetManager.Ekle(urun1); // sayfa 1
 
-            sepetManager.Ekle(urun2); // sayfa 2
+           // sepetManager.Ekle(urun2); // sayfa 2
 
-            sepetManager.Ekle(urun3); // sayfa 3 
+            //sepetManager.Ekle(urun3); // sayfa 3 
 
             sepetManager.Ekle2("Armut", "Yesil Armut", 10);
             sepetManager.Ekle2("Elma", "Yesil Elma", 16 );
